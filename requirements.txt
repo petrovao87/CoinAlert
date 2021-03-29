@@ -17,7 +17,7 @@ MarkupSafe==1.0
 parso==0.2.0
 pickleshare==0.7.4
 prompt-toolkit==1.0.15
-Pygments==2.2.0
+Pygments==2.7.4
 python-crontab==2.2.8
 python-dateutil==2.7.2
 python-telegram-bot==10.0.1
